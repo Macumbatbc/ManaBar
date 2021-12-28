@@ -1,5 +1,6 @@
 # ManaBar
-Five Second Rule with Mana Tick, it also show how many mana points you win each ticks.
+Five Second Rule with Mana Tick for TBCC.
+it also show how many mana points you win each ticks.
 
 /mb or /manabar for options
 
