@@ -1,5 +1,5 @@
 # ManaBar
-Five Second Rule with Mana Tick
+Five Second Rule with Mana Tick, it also show how many mana points you win each ticks.
 
 /mb or /manabar for options
 
