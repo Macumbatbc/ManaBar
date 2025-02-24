@@ -14,7 +14,7 @@ function ManaBar.ADDON_LOADED(self,event,arg1)
         ManaBarDB.posX = ManaBarDB.posX or 0
         ManaBarDB.posY = ManaBarDB.posY or 0
         ManaBarDB.align = ManaBarDB.align or "CENTER"
-        ManaBarDB.visibility = ManaBarDB.visibility or "Combat"
+        ManaBarDB.visibility = ManaBarDB.visibility or "Always"
         ManaBarDB.font = ManaBarDB.font or "Arial Narrow"
         ManaBarDB.fontSize = ManaBarDB.fontSize or 20
         ManaBarDB.TextColor = ManaBarDB.TextColor or {0.98,1,1}
